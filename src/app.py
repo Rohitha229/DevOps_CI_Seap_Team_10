@@ -21,4 +21,5 @@ if __name__ == "__main__":
 
     print("Highest Bid:", highest_bid)
     print("Winner:", get_winner("Rohitha", highest_bid))
-    print("Auction Status: Closed")
+
+    print("Auction Status: Open")
